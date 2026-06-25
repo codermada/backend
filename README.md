@@ -16,3 +16,7 @@ https://youtu.be/Ud5xKCYQTjM?si=nIc75axHqPeyHgYq
 * JWT Authentication Tutorial - Node.js
 
 https://youtu.be/mbsmsi7l3r4?si=CV6S-d-c5eEs2Mvl
+
+* How to build a REST API with Node js & Express
+
+https://youtu.be/pKd0Rpw7O48?si=jj4h2y3BaErm-3h7
