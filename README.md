@@ -24,3 +24,7 @@ https://youtu.be/pKd0Rpw7O48?si=jj4h2y3BaErm-3h7
 * JavaScript Backend Course - Express.js & Node.js in 24 Minutes
 
 https://youtu.be/ha_leEpnT30?si=cSowL1oWvqibFe9E
+
+* Node.js and Express.js - Full Course
+
+https://youtu.be/Oe421EPjeBE?si=NtFZIdJy22twrVOO
