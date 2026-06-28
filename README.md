@@ -28,3 +28,7 @@ https://youtu.be/ha_leEpnT30?si=cSowL1oWvqibFe9E
 * Node.js and Express.js - Full Course
 
 https://youtu.be/Oe421EPjeBE?si=NtFZIdJy22twrVOO
+
+* Express JS Full Course
+
+https://youtu.be/nH9E25nkk3I?si=3cC9QgpLa0Jhuy-I
