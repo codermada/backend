@@ -1,6 +1,6 @@
 # learning Express js
 
-# ressources
+# resources
 * Learn Express JS In 35 Minutes
 
 https://youtu.be/SccSCuHhOw0?si=KLG-PvPYDESyTp96
@@ -36,3 +36,7 @@ https://youtu.be/nH9E25nkk3I?si=3cC9QgpLa0Jhuy-I
 * Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma...
 
 https://youtu.be/g09PoiCob4Y?si=ukXzPtmJXpLnaQ0n
+
+* Node JS Express Project Structure : Best Practices
+
+https://youtu.be/sbt9XbAXb94?si=90V2H6ktvoWuY2-o
