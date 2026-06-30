@@ -32,3 +32,7 @@ https://youtu.be/Oe421EPjeBE?si=NtFZIdJy22twrVOO
 * Express JS Full Course
 
 https://youtu.be/nH9E25nkk3I?si=3cC9QgpLa0Jhuy-I
+
+* Backend Complete Course | NodeJS, ExpressJS, JWT, PostgreSQL, Prisma...
+
+https://youtu.be/g09PoiCob4Y?si=ukXzPtmJXpLnaQ0n
