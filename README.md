@@ -1,6 +1,6 @@
 # learning Express js
 
-# resources
+## resources
 * Learn Express JS In 35 Minutes
 
 https://youtu.be/SccSCuHhOw0?si=KLG-PvPYDESyTp96
@@ -40,3 +40,11 @@ https://youtu.be/g09PoiCob4Y?si=ukXzPtmJXpLnaQ0n
 * Node JS Express Project Structure : Best Practices
 
 https://youtu.be/sbt9XbAXb94?si=90V2H6ktvoWuY2-o
+
+# Learning Flask
+
+## resources
+
+* build a meme Python website (Flask Tutorial for Beginners) 
+
+https://youtu.be/5aYpkLfkgRE?si=-EkDaoTbQ7tXb1zs
